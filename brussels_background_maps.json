@@ -1,17 +1,17 @@
 [
 	{
 		"title": "UrbIS basiskaart",
-		"source": "https://geoservices-urbis.irisnet.be/geowebcache/service/wmts?service=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=urbisNL&STYLE=&FORMAT=image/png&TILEMATRIXSET=GoogleMapsVL&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}",
+		"source": "https://geoservices-urbis.irisnet.be/geowebcache/service/wmts?service=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=urbisNL&STYLE=&FORMAT=image/png&TILEMATRIXSET=EPSG%3A900913&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}",
 		"name": "urbisNL"
 	},
  	{
 		"title": "UrbIS basiskaart Gray",
-		"source": "https://geoservices-urbis.irisnet.be/geowebcache/service/wmts?service=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=urbisNLGray&STYLE=&FORMAT=image/png&TILEMATRIXSET=GoogleMapsVL&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}",
+		"source": "https://geoservices-urbis.irisnet.be/geowebcache/service/wmts?service=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=urbisNLGray&STYLE=&FORMAT=image/png&TILEMATRIXSET=EPSG%3A900913&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}",
 		"name": "urbisNLGray"
 	},
 	{
 		"title": "UrbIS Ortho",
-		"source": "https://geoservices-urbis.irisnet.be/geowebcache/service/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=Orthophoto%20-%202023%20%28RGB%29&STYLE=&FORMAT=image/png&TILEMATRIXSET=GoogleMapsVL&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}",
+		"source": "https://geoservices-urbis.irisnet.be/geowebcache/service/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=Orthophoto%20-%202023%20%28RGB%29&STYLE=&FORMAT=image/png&TILEMATRIXSET=EPSG%3A900913&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}",
 		"name": "UrbIS Ortho"
 	}
 ]
