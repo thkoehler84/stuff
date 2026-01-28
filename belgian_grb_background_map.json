@@ -16,7 +16,8 @@
 	},
 	{
 		"title": "OpenStreetMaps",
-		"source": "https://wmts.onmaps.de/1.0.0/14ce01507ca4d3b2a3c6ca79a82fe2f3?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=osm_dezent&STYLE=&FORMAT=image/png&TILEMATRIXSET=GlobalWebmercator&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}",
+		"source": "https://onmaps.de/phpWMS4/?service=wmts&version=1.0.0&key=14ce01507ca4d3b2a3c6ca79a82fe2f3?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=osm_dezent&STYLE=&FORMAT=image/png&TILEMATRIXSET=GlobalWebmercator&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}",
 		"name": "OSM"
 	}
 ]
+
